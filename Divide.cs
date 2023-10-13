@@ -1,6 +1,6 @@
 ﻿namespace Calculator
 {
-    internal class Divition
+    class Divition
     {
         public static void Divide()
         {
