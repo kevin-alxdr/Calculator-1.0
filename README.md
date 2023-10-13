@@ -8,7 +8,7 @@ process.
 
 &nbsp;   
 
-New commands learned 
+New commands learned during the project
 -------------------------------------------
 * Console.WriteLine() - Writes a line of text to the console
 * Console.ReadLine() - Allows user input to the console
