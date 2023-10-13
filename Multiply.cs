@@ -18,7 +18,6 @@
             Convert.ToString(answer);
 
             Console.WriteLine("\nAnswer: " + answer);
-
         }
     }
 }
