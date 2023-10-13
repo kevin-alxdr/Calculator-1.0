@@ -1,5 +1,6 @@
 ﻿namespace Calculator
 {
+     
     class Calculator
     {
         static void Main(string[] args)
@@ -115,7 +116,6 @@
                         again4 = Console.ReadLine();
                     }
 
-
                     if (again4 == "n")
                     {
                         Console.WriteLine("Returning to main menu...\n");
@@ -134,7 +134,6 @@
                     Environment.Exit(0);
                     break;
             }
-
         }
     }
 }
